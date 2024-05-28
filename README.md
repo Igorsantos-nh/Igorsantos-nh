@@ -6,15 +6,11 @@ Meu nome e Igor Santos
 - Estou me desenvolvendo na linguagem JavaScript
 -  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+### você entrar em contat
 
 
 
-
-https://media1.tenor.com/m/7D7rhF-T7WIAAAAd/pedro-pedro-flamengo.gif
-
-https://media1.tenor.com/m/BZaWjKzYBLQAAAAd/racoon-raccoon.gif
+![](https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif)
 
 
-
-![](https://media1.tenor.com/m/BZaWjKzYBLQAAAAd/racoon-raccoon.gif)
 
